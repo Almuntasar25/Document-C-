@@ -4,7 +4,6 @@ This repository contains simple and clear examples of basic C# concepts such as 
 
 ## 📄 File Included
 
-- `32025c32-abc3-4beb-8b6e-b196b23045c3.cs`  
   A C# source code file demonstrating:
 
   - Single-line and multi-line comments
